@@ -35,7 +35,7 @@ bootstrap.portfolio/
 ________________________________________
 Live Demo
 The project is hosted on GitHub Pages:
-🔗 https://bp.jis.digital
+🔗 https://bp.jis.digital or http://bp.jis.digital
 ________________________________________
 Setup Instructions
 1.	Clone the repository:
